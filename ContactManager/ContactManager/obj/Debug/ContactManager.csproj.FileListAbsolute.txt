@@ -1,0 +1,7 @@
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\bin\Debug\ContactManager.exe.config
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\bin\Debug\ContactManager.exe
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\bin\Debug\ContactManager.pdb
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\obj\Debug\ContactManager.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\obj\Debug\ContactManager.exe
+C:\Users\fscho\Documents\Škola\Pva\ContactManager\ContactManager\obj\Debug\ContactManager.pdb
