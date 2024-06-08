@@ -1,0 +1,13 @@
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\bin\Debug\Financial Manager.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\bin\Debug\Financial Manager.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\bin\Debug\Financial Manager.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial Manager.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial_Manager.Properties.Resources.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial Manager.csproj.GenerateResource.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial Manager.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial Manager.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial Manager.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financial_Manager.manager.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\Financial Manager\Financial Manager\obj\Debug\Financia.2B788345.Up2Date

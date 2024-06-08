@@ -1,0 +1,7 @@
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\bin\Debug\Game Test 4 - fight system map implement.exe.config
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\bin\Debug\Game Test 4 - fight system map implement.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\bin\Debug\Game Test 4 - fight system map implement.pdb
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\obj\Debug\Game Test 4 - fight system map implement.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\obj\Debug\Game Test 4 - fight system map implement.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\obj\Debug\Game Test 4 - fight system map implement.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 4 - fight system map implement\Game Test 4 - fight system map implement\obj\Debug\Game Test 4 - fight system map implement.pdb

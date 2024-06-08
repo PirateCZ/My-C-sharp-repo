@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\Experimental app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B147F72-411C-4C6E-812E-388AD170F852}|Experimental app\\Experimental app.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\experimental app\\experimental app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B147F72-411C-4C6E-812E-388AD170F852}|Experimental app\\Experimental app.csproj|solutionrelative:experimental app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B147F72-411C-4C6E-812E-388AD170F852}|Experimental app\\Experimental app.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\experimental app\\experimental app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B147F72-411C-4C6E-812E-388AD170F852}|Experimental app\\Experimental app.csproj|solutionrelative:experimental app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\Experimental app\\Experimental app\\Form1.cs",
+              "RelativeDocumentMoniker": "Experimental app\\Form1.cs",
+              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\Experimental app\\Experimental app\\Form1.cs*",
+              "RelativeToolTip": "Experimental app\\Form1.cs*",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwBUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:55:20.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\Experimental app\\Experimental app\\Form1.cs",
+              "RelativeDocumentMoniker": "Experimental app\\Form1.cs",
+              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\Experimental app\\Experimental app\\Form1.cs [Design]*",
+              "RelativeToolTip": "Experimental app\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T11:49:10.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

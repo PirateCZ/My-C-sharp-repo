@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\Nov\u00E1 slo\u017Eka\\Game Test 2 - Movement cleanup \u002B items\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B42C1DC-2934-45D6-817B-DC53608055C4}|Game Test 2 - Movement cleanup \u002B items\\Game Test 2 - Movement cleanup \u002B items.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\nov\u00E1 slo\u017Eka\\game test 2 - movement cleanup \u002B items\\game test 2 - movement cleanup \u002B items\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B42C1DC-2934-45D6-817B-DC53608055C4}|Game Test 2 - Movement cleanup \u002B items\\Game Test 2 - Movement cleanup \u002B items.csproj|solutionrelative:game test 2 - movement cleanup \u002B items\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\Nov\u00E1 slo\u017Eka\\Game Test 2 - Movement cleanup \u002B items\\Game Test 2 - Movement cleanup \u002B items\\Program.cs",
+              "RelativeDocumentMoniker": "Game Test 2 - Movement cleanup \u002B items\\Program.cs",
+              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\Nov\u00E1 slo\u017Eka\\Game Test 2 - Movement cleanup \u002B items\\Game Test 2 - Movement cleanup \u002B items\\Program.cs",
+              "RelativeToolTip": "Game Test 2 - Movement cleanup \u002B items\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:20:58.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

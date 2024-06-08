@@ -1,0 +1,7 @@
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\bin\Debug\Game Test 3 - Fighting system.exe.config
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\bin\Debug\Game Test 3 - Fighting system.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\bin\Debug\Game Test 3 - Fighting system.pdb
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\obj\Debug\Game Test 3 - Fighting system.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\obj\Debug\Game Test 3 - Fighting system.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\obj\Debug\Game Test 3 - Fighting system.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 3 - Fighting system\Game Test 3 - Fighting system\obj\Debug\Game Test 3 - Fighting system.pdb

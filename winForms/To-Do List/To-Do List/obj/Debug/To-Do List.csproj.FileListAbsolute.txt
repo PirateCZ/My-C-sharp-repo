@@ -1,0 +1,11 @@
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\bin\Debug\To-Do List.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\bin\Debug\To-Do List.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\bin\Debug\To-Do List.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.GenerateResource.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To-Do List.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To-Do List.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To-Do List.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To_Do_List.listOfTask.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\To-Do List\To-Do List\obj\Debug\To_Do_List.Task.resources

@@ -1,0 +1,11 @@
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\bin\Debug\GTA Radio.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\bin\Debug\GTA Radio.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\bin\Debug\GTA Radio.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA_Radio.Properties.Resources.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.csproj.GenerateResource.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.csproj.Up2Date
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTA Radio\GTA Radio\obj\Debug\GTA Radio.pdb

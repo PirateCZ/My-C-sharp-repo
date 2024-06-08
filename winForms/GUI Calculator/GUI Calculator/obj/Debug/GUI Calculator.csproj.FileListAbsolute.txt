@@ -1,0 +1,14 @@
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\bin\Debug\GUI Calculator.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Form1.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Properties.Resources.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.GenerateResource.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calculator.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI_Calculator.Calculator.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GUI Calculator\GUI Calculator\obj\Debug\GUI Calc.2C9AC029.Up2Date

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\API shit\\Weather App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{656DA332-ADD9-4AEB-A3FF-64EE4947E49B}|Weather App in console\\Weather App in console.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\api shit\\weather app\\weather app in console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656DA332-ADD9-4AEB-A3FF-64EE4947E49B}|Weather App in console\\Weather App in console.csproj|solutionrelative:weather app in console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{656DA332-ADD9-4AEB-A3FF-64EE4947E49B}|Weather App in console\\Weather App in console.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\api shit\\weather app\\weather app in console\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{656DA332-ADD9-4AEB-A3FF-64EE4947E49B}|Weather App in console\\Weather App in console.csproj|solutionrelative:weather app in console\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherInfo.cs",
+              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\API shit\\Weather App\\Weather App in console\\WeatherInfo.cs",
+              "RelativeDocumentMoniker": "Weather App in console\\WeatherInfo.cs",
+              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\API shit\\Weather App\\Weather App in console\\WeatherInfo.cs",
+              "RelativeToolTip": "Weather App in console\\WeatherInfo.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:15:32.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\API shit\\Weather App\\Weather App in console\\Program.cs",
+              "RelativeDocumentMoniker": "Weather App in console\\Program.cs",
+              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\API shit\\Weather App\\Weather App in console\\Program.cs",
+              "RelativeToolTip": "Weather App in console\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwB4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T08:38:47.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.exe.config
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.pdb
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.exe
+C:\Users\fscho\Documents\GitHub\Wea\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\bin\Debug\Game Test 2 - Movement cleanup + items.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\Nová složka\Game Test 2 - Movement cleanup + items\Game Test 2 - Movement cleanup + items\obj\Debug\Game Test 2 - Movement cleanup + items.pdb
