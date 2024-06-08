@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\",
+  "WorkspaceRootPath": "C:\\Users\\fscho\\source\\repos\\GTA radio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\gta radio\\gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|solutionrelative:gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14D85E4F-B3E5-4553-A6E0-FCF6FB1B00BF}|GTA radio\\GTA radio.csproj|c:\\users\\fscho\\source\\repos\\gta radio\\gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D85E4F-B3E5-4553-A6E0-FCF6FB1B00BF}|GTA radio\\GTA radio.csproj|solutionrelative:gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\gta radio\\gta radio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|solutionrelative:gta radio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\gta radio\\gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}|GTA Radio\\GTA Radio.csproj|solutionrelative:gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{14D85E4F-B3E5-4553-A6E0-FCF6FB1B00BF}|GTA radio\\GTA radio.csproj|C:\\Users\\fscho\\source\\repos\\GTA radio\\gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14D85E4F-B3E5-4553-A6E0-FCF6FB1B00BF}|GTA radio\\GTA radio.csproj|solutionrelative:gta radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Program.cs",
-              "RelativeDocumentMoniker": "GTA Radio\\Program.cs",
-              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Program.cs",
-              "RelativeToolTip": "GTA Radio\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:18:12.377Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Form1.cs",
-              "RelativeDocumentMoniker": "GTA Radio\\Form1.cs",
-              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Form1.cs",
-              "RelativeToolTip": "GTA Radio\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\fscho\\source\\repos\\GTA radio\\GTA radio\\Form1.cs",
+              "RelativeDocumentMoniker": "GTA radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\fscho\\source\\repos\\GTA radio\\GTA radio\\Form1.cs",
+              "RelativeToolTip": "GTA radio\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAmwGAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:18:06.124Z",
+              "WhenOpened": "2024-06-08T07:47:15.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Form1.cs",
-              "RelativeDocumentMoniker": "GTA Radio\\Form1.cs",
-              "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTA Radio\\GTA Radio\\Form1.cs [Design]",
-              "RelativeToolTip": "GTA Radio\\Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fscho\\source\\repos\\GTA radio\\GTA radio\\Form1.cs",
+              "RelativeDocumentMoniker": "GTA radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\fscho\\source\\repos\\GTA radio\\GTA radio\\Form1.cs [Design]",
+              "RelativeToolTip": "GTA radio\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T09:17:52.504Z",
+              "WhenOpened": "2024-06-08T06:26:36.072Z",
               "EditorCaption": " [Design]"
             }
           ]

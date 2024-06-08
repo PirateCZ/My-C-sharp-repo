@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{299BE33F-86DC-4D8F-8894-9B1D7B2FD2F4}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
-    <RootNamespace>GTA_Radio</RootNamespace>
-    <AssemblyName>GTA Radio</AssemblyName>
+    <ProjectGuid>{14D85E4F-B3E5-4553-A6E0-FCF6FB1B00BF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>GTA_radio</RootNamespace>
+    <AssemblyName>GTA radio</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -31,6 +31,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AxInterop.WMPLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -61,6 +64,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -83,6 +89,273 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res\music\yap\pre\ADULT_EDUCATION_01.wav" />
+    <Content Include="res\music\yap\pre\ADULT_EDUCATION_02.wav" />
+    <Content Include="res\music\yap\pre\ANTHEM_01.wav" />
+    <Content Include="res\music\yap\pre\ANTHEM_02.wav" />
+    <Content Include="res\music\yap\pre\APPLAUSE_01.wav" />
+    <Content Include="res\music\yap\pre\APPLAUSE_02.wav" />
+    <Content Include="res\music\yap\pre\BAD_GIRLS_01.wav" />
+    <Content Include="res\music\yap\pre\BAD_GIRLS_02.wav" />
+    <Content Include="res\music\yap\pre\CIRCLE_IN_THE_SAND_01.wav" />
+    <Content Include="res\music\yap\pre\CIRCLE_IN_THE_SAND_02.wav" />
+    <Content Include="res\music\yap\pre\COOLER_THAN_ME_01.wav" />
+    <Content Include="res\music\yap\pre\COOLER_THAN_ME_02.wav" />
+    <Content Include="res\music\yap\pre\DAYS_GO_BY_01.wav" />
+    <Content Include="res\music\yap\pre\DAYS_GO_BY_02.wav" />
+    <Content Include="res\music\yap\pre\DONT_WANNA_FALL_IN_LOVE_01.wav" />
+    <Content Include="res\music\yap\pre\DONT_WANNA_FALL_IN_LOVE_02.wav" />
+    <Content Include="res\music\yap\pre\EVERYTHING_SHE_WANTS_01.wav" />
+    <Content Include="res\music\yap\pre\EVERYTHING_SHE_WANTS_02.wav" />
+    <Content Include="res\music\yap\pre\FEEL_GOOD_INC_01.wav" />
+    <Content Include="res\music\yap\pre\FEEL_GOOD_INC_02.wav" />
+    <Content Include="res\music\yap\pre\GIMME_MORE_01.wav" />
+    <Content Include="res\music\yap\pre\GIMME_MORE_02.wav" />
+    <Content Include="res\music\yap\pre\GLAMOROUS_01.wav" />
+    <Content Include="res\music\yap\pre\GLAMOROUS_02.wav" />
+    <Content Include="res\music\yap\pre\I_WANT_IT_THAT_WAY_01.wav" />
+    <Content Include="res\music\yap\pre\I_WANT_IT_THAT_WAY_02.wav" />
+    <Content Include="res\music\yap\pre\KIDS_01.wav" />
+    <Content Include="res\music\yap\pre\KIDS_02.wav" />
+    <Content Include="res\music\yap\pre\LADY_HEAR_ME_TONIGHT_01.wav" />
+    <Content Include="res\music\yap\pre\LADY_HEAR_ME_TONIGHT_02.wav" />
+    <Content Include="res\music\yap\pre\LETS_GO_ALL_THE_WAY_01.wav" />
+    <Content Include="res\music\yap\pre\LETS_GO_ALL_THE_WAY_02.wav" />
+    <Content Include="res\music\yap\pre\LIVING_IN_A_BOX_01.wav" />
+    <Content Include="res\music\yap\pre\LIVING_IN_A_BOX_02.wav" />
+    <Content Include="res\music\yap\pre\MEET_ME_HALFWAY_01.wav" />
+    <Content Include="res\music\yap\pre\MEET_ME_HALFWAY_02.wav" />
+    <Content Include="res\music\yap\pre\ME_AND_YOU_01.wav" />
+    <Content Include="res\music\yap\pre\ME_AND_YOU_02.wav" />
+    <Content Include="res\music\yap\pre\MIDNIGHT_CITY_01.wav" />
+    <Content Include="res\music\yap\pre\MIDNIGHT_CITY_02.wav" />
+    <Content Include="res\music\yap\pre\MOVES_LIKE_JAGGER_01.wav" />
+    <Content Include="res\music\yap\pre\MOVES_LIKE_JAGGER_02.wav" />
+    <Content Include="res\music\yap\pre\MUSIC_SOUNDS_BETTER_WITH_YOU_01.wav" />
+    <Content Include="res\music\yap\pre\MUSIC_SOUNDS_BETTER_WITH_YOU_02.wav" />
+    <Content Include="res\music\yap\pre\NEW_SENSATION_01.wav" />
+    <Content Include="res\music\yap\pre\NEW_SENSATION_02.wav" />
+    <Content Include="res\music\yap\pre\ONE_THING_01.wav" />
+    <Content Include="res\music\yap\pre\ONE_THING_02.wav" />
+    <Content Include="res\music\yap\pre\ONLY_GIRL_IN_THE_WORLD_01.wav" />
+    <Content Include="res\music\yap\pre\ONLY_GIRL_IN_THE_WORLD_02.wav" />
+    <Content Include="res\music\yap\pre\ON_OUR_OWN_01.wav" />
+    <Content Include="res\music\yap\pre\ON_OUR_OWN_02.wav" />
+    <Content Include="res\music\yap\pre\PROMISES_PROMISES_01.wav" />
+    <Content Include="res\music\yap\pre\PROMISES_PROMISES_02.wav" />
+    <Content Include="res\music\yap\pre\PURE_SHORES_01.wav" />
+    <Content Include="res\music\yap\pre\PURE_SHORES_02.wav" />
+    <Content Include="res\music\yap\pre\RYTHM_OF_THE_NIGHT_01.wav" />
+    <Content Include="res\music\yap\pre\RYTHM_OF_THE_NIGHT_02.wav" />
+    <Content Include="res\music\yap\pre\SCANDALOUS_01.wav" />
+    <Content Include="res\music\yap\pre\SCANDALOUS_02.wav" />
+    <Content Include="res\music\yap\pre\SCANDALOUS_03.wav" />
+    <Content Include="res\music\yap\pre\SIX_UNDERGROUND_01.wav" />
+    <Content Include="res\music\yap\pre\SIX_UNDERGROUND_02.wav" />
+    <Content Include="res\music\yap\pre\SMALLTOWN_BOY_01.wav" />
+    <Content Include="res\music\yap\pre\SMALLTOWN_BOY_02.wav" />
+    <Content Include="res\music\yap\pre\SOMETHING_GOT_ME_STARTED_REMIX_01.wav" />
+    <Content Include="res\music\yap\pre\SOMETHING_GOT_ME_STARTED_REMIX_02.wav" />
+    <Content Include="res\music\yap\pre\TAPE_LOOP_01.wav" />
+    <Content Include="res\music\yap\pre\TAPE_LOOP_02.wav" />
+    <Content Include="res\music\yap\pre\TAPE_LOOP_03.wav" />
+    <Content Include="res\music\yap\pre\TAPE_LOOP_04.wav" />
+    <Content Include="res\music\yap\pre\TELL_IT_TO_MY_HEART_01.wav" />
+    <Content Include="res\music\yap\pre\TELL_IT_TO_MY_HEART_02.wav" />
+    <Content Include="res\music\yap\pre\TENNIS_COURT_01.wav" />
+    <Content Include="res\music\yap\pre\TENNIS_COURT_02.wav" />
+    <Content Include="res\music\yap\pre\THE_TIME_IS_NOW_01.wav" />
+    <Content Include="res\music\yap\pre\THE_TIME_IS_NOW_02.wav" />
+    <Content Include="res\music\yap\pre\THE_TIME_IS_NOW_03.wav" />
+    <Content Include="res\music\yap\pre\THE_TIME_IS_NOW_04.wav" />
+    <Content Include="res\music\yap\pre\WAIT_01.wav" />
+    <Content Include="res\music\yap\pre\WAIT_02.wav" />
+    <Content Include="res\music\yap\pre\WEST_END_GIRLS_01.wav" />
+    <Content Include="res\music\yap\pre\WEST_END_GIRLS_02.wav" />
+    <Content Include="res\music\yap\pre\WITH_EVERY_HEARTBEAT_01.wav" />
+    <Content Include="res\music\yap\pre\WITH_EVERY_HEARTBEAT_02.wav" />
+    <Content Include="res\music\yap\pre\WORK_01.wav" />
+    <Content Include="res\music\yap\pre\WORK_02.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_01.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_02.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_03.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_04.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_05.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_AD_06.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_01.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_02.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_03.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_04.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_05.wav" />
+    <Content Include="res\music\yap\B4 sumthing imp\TO_NEWS_06.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_01.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_02.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_03.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_04.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_05.wav" />
+    <Content Include="res\music\yap\Based on time\EVENING_06.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_01.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_02.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_03.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_04.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_05.wav" />
+    <Content Include="res\music\yap\Based on time\MORNING_06.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_01\MONO_SOLO_01.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_02\MONO_SOLO_02.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_03\MONO_SOLO_03.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_04\MONO_SOLO_04.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_05\MONO_SOLO_05.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_06\MONO_SOLO_06.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_07\MONO_SOLO_07.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_08\MONO_SOLO_08.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_09\MONO_SOLO_09.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_10\MONO_SOLO_10.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_11\MONO_SOLO_11.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_12\MONO_SOLO_12.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_13\MONO_SOLO_13.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_14\MONO_SOLO_14.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_15\MONO_SOLO_15.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_16\MONO_SOLO_16.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_17\MONO_SOLO_17.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_18\MONO_SOLO_18.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_19\MONO_SOLO_19.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_20\MONO_SOLO_20.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_21\MONO_SOLO_21.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_22\MONO_SOLO_22.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_23\MONO_SOLO_23.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_24\MONO_SOLO_24.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_25\MONO_SOLO_25.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_26\MONO_SOLO_26.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_27\MONO_SOLO_27.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_28\MONO_SOLO_28.wav" />
+    <Content Include="res\music\yap\KARA yapping\mono_solo_29\MONO_SOLO_29.wav" />
+    <Content Include="res\music\song\ADULT_EDUCATION_LEFT.wav" />
+    <Content Include="res\music\song\ALRIGHT_LEFT.wav" />
+    <Content Include="res\music\song\ANTHEM_LEFT.wav" />
+    <Content Include="res\music\song\APPLAUSE_LEFT.wav" />
+    <Content Include="res\music\song\BAD_GIRLS_LEFT.wav" />
+    <Content Include="res\music\song\COOLER_THAN_ME_LEFT.wav" />
+    <Content Include="res\music\song\DAYS_GO_BY_LEFT.wav" />
+    <Content Include="res\music\song\DONT_WANNA_FALL_IN_LOVE_LEFT.wav" />
+    <Content Include="res\music\song\EVERYTHING_SHE_WANTS_LEFT.wav" />
+    <Content Include="res\music\song\FEEL_GOOD_INC_LEFT.wav" />
+    <Content Include="res\music\yap\general\GENERAL_01.wav" />
+    <Content Include="res\music\yap\general\GENERAL_02.wav" />
+    <Content Include="res\music\yap\general\GENERAL_03.wav" />
+    <Content Include="res\music\yap\general\GENERAL_04.wav" />
+    <Content Include="res\music\yap\general\GENERAL_05.wav" />
+    <Content Include="res\music\yap\general\GENERAL_06.wav" />
+    <Content Include="res\music\yap\general\GENERAL_07.wav" />
+    <Content Include="res\music\yap\general\GENERAL_08.wav" />
+    <Content Include="res\music\yap\general\GENERAL_09.wav" />
+    <Content Include="res\music\yap\general\GENERAL_10.wav" />
+    <Content Include="res\music\yap\general\GENERAL_11.wav" />
+    <Content Include="res\music\yap\general\GENERAL_12.wav" />
+    <Content Include="res\music\yap\general\GENERAL_13.wav" />
+    <Content Include="res\music\yap\general\GENERAL_14.wav" />
+    <Content Include="res\music\yap\general\GENERAL_15.wav" />
+    <Content Include="res\music\yap\general\GENERAL_16.wav" />
+    <Content Include="res\music\yap\general\GENERAL_17.wav" />
+    <Content Include="res\music\yap\general\GENERAL_18.wav" />
+    <Content Include="res\music\yap\general\GENERAL_19.wav" />
+    <Content Include="res\music\yap\general\GENERAL_20.wav" />
+    <Content Include="res\music\yap\general\GENERAL_21.wav" />
+    <Content Include="res\music\yap\general\GENERAL_22.wav" />
+    <Content Include="res\music\yap\general\GENERAL_23.wav" />
+    <Content Include="res\music\yap\general\GENERAL_24.wav" />
+    <Content Include="res\music\yap\general\GENERAL_25.wav" />
+    <Content Include="res\music\yap\general\GENERAL_26.wav" />
+    <Content Include="res\music\yap\general\GENERAL_27.wav" />
+    <Content Include="res\music\yap\general\GENERAL_28.wav" />
+    <Content Include="res\music\yap\general\GENERAL_29.wav" />
+    <Content Include="res\music\yap\general\GENERAL_30.wav" />
+    <Content Include="res\music\yap\general\GENERAL_31.wav" />
+    <Content Include="res\music\yap\general\GENERAL_32.wav" />
+    <Content Include="res\music\yap\general\GENERAL_33.wav" />
+    <Content Include="res\music\yap\general\GENERAL_34.wav" />
+    <Content Include="res\music\yap\general\GENERAL_35.wav" />
+    <Content Include="res\music\yap\general\GENERAL_36.wav" />
+    <Content Include="res\music\yap\general\GENERAL_37.wav" />
+    <Content Include="res\music\yap\general\GENERAL_38.wav" />
+    <Content Include="res\music\yap\general\GENERAL_39.wav" />
+    <Content Include="res\music\yap\general\GENERAL_40.wav" />
+    <Content Include="res\music\yap\general\GENERAL_41.wav" />
+    <Content Include="res\music\yap\general\GENERAL_42.wav" />
+    <Content Include="res\music\yap\general\GENERAL_43.wav" />
+    <Content Include="res\music\yap\general\GENERAL_44.wav" />
+    <Content Include="res\music\yap\general\GENERAL_45.wav" />
+    <Content Include="res\music\yap\general\GENERAL_46.wav" />
+    <Content Include="res\music\song\GIMME_MORE_LEFT.wav" />
+    <Content Include="res\music\song\GLAMOROUS_LEFT.wav" />
+    <Content Include="res\music\song\I_WANT_IT_THAT_WAY_LEFT.wav" />
+    <Content Include="res\music\song\KIDS_LEFT.wav" />
+    <Content Include="res\music\song\LADY_HEAR_ME_TONIGHT_LEFT.wav" />
+    <Content Include="res\music\song\LETS_GO_ALL_THE_WAY_LEFT.wav" />
+    <Content Include="res\music\song\LIVING_IN_A_BOX_LEFT.wav" />
+    <Content Include="res\music\song\MEET_ME_HALFWAY_LEFT.wav" />
+    <Content Include="res\music\song\ME_AND_YOU_LEFT.wav" />
+    <Content Include="res\music\song\MIDNIGHT_CITY_LEFT.wav" />
+    <Content Include="res\music\song\MOVES_LIKE_JAGGER_LEFT.wav" />
+    <Content Include="res\music\song\MUSIC_SOUNDS_BETTER_WITH_YOU_LEFT.wav" />
+    <Content Include="res\music\song\NEW_SENSATION_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_01\ID_01_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_01\ID_01_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_02\ID_02_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_02\ID_02_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_03\ID_03_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_03\ID_03_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_04\ID_04_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_04\ID_04_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_05\ID_05_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_05\ID_05_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_06\ID_06_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_06\ID_06_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_07\ID_07_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_07\ID_07_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_08\ID_08_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_08\ID_08_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_09\ID_09_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_09\ID_09_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_10\ID_10_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_10\ID_10_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_11\ID_11_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_11\ID_11_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_12\ID_12_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_12\ID_12_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_13\ID_13_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_13\ID_13_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_14\ID_14_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_14\ID_14_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_15\ID_15_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_15\ID_15_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_16\ID_16_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_16\ID_16_RIGHT.wav" />
+    <Content Include="res\music\yap\promo\id_17\ID_17_LEFT.wav" />
+    <Content Include="res\music\yap\promo\id_17\ID_17_RIGHT.wav" />
+    <Content Include="res\music\song\ONE_THING_LEFT.wav" />
+    <Content Include="res\music\song\ONLY_GIRL_IN_THE_WORLD_LEFT.wav" />
+    <Content Include="res\music\song\ON_OUR_OWN_LEFT.wav" />
+    <Content Include="res\music\song\PROMISES_PROMISES_LEFT.wav" />
+    <Content Include="res\music\song\PURE_SHORES_LEFT.wav" />
+    <Content Include="res\music\song\RYTHM_OF_THE_NIGHT_LEFT.wav" />
+    <Content Include="res\music\song\SCANDALOUS_LEFT.wav" />
+    <Content Include="res\music\song\SEND_ME_AN_ANGEL_LEFT.wav" />
+    <Content Include="res\music\song\SIX_UNDERGROUND_LEFT.wav" />
+    <Content Include="res\music\song\SMALLTOWN_BOY_LEFT.wav" />
+    <Content Include="res\music\song\SOMETHING_GOT_ME_STARTED_REMIX_LEFT.wav" />
+    <Content Include="res\music\song\TAPE_LOOP_LEFT.wav" />
+    <Content Include="res\music\song\TELL_TO_MY_HEART_LEFT.wav" />
+    <Content Include="res\music\song\TENNIS_COURT_LEFT.wav" />
+    <Content Include="res\music\song\THE_TIME_IS_NOW_LEFT.wav" />
+    <Content Include="res\music\song\WAIT_LEFT.wav" />
+    <Content Include="res\music\song\WEST_END_GIRLS_LEFT.wav" />
+    <Content Include="res\music\song\WITH_EVERY_HEARTBEAT_LEFT.wav" />
+    <Content Include="res\music\song\WORK_LEFT.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="res\img\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

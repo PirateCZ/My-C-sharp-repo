@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace GTA_Radio
+namespace GTA_radio
 {
     internal static class Program
     {

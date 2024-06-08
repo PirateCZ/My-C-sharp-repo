@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GTA_Radio.Properties
+namespace GTA_radio.Properties
 {
 
 
