@@ -1,0 +1,12 @@
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\bin\Debug\GTAV radio stations.exe.config
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\bin\Debug\GTAV radio stations.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\bin\Debug\GTAV radio stations.pdb
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV radio stations.csproj.AssemblyReference.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV_radio_stations.mediaPlayer.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV_radio_stations.Properties.Resources.resources
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV radio stations.csproj.GenerateResource.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV radio stations.csproj.CoreCompileInputs.cache
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV rad.6337A685.Up2Date
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV radio stations.exe
+C:\Users\fscho\Documents\GitHub\My-C-sharp-repo\winForms\GTAV radio stations\obj\Debug\GTAV radio stations.pdb

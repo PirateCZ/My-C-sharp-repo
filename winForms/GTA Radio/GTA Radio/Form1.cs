@@ -21,14 +21,14 @@ namespace GTA_radio
         private List<string> songs;
         private List<string> preYap;
         private Random rnd;
-        private string directoryPath = @"C:\Users\fscho\source\repos\GTA radio\GTA radio\res\music\song\";
+        private string baseDir = AppDomain.CurrentDomain.BaseDirectory; 
         private int volume;
         public Form1()
         {
             //declare all needed variables
             InitializeComponent();
-            LoadMusicFiles(directoryPath, ref songs);
-            LoadMusicFiles(@"C:\Users\fscho\source\repos\GTA radio\GTA radio\res\music\yap\pre\", ref preYap);
+            LoadMusicFiles(Path.Combine(baseDir, "res", "music", "song"), ref songs);
+            LoadMusicFiles(Path.Combine(baseDir, "res", "music", "yap", "pre"), ref preYap);
             volume = trackBar1.Value;
             songPlayer = new WindowsMediaPlayer();
             songPlayer.PlayStateChange += Player1_PlayStateChange;
