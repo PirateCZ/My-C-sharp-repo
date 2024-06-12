@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4BD8DAA9-63A3-4A77-A247-39E29D763837}|GTAV radio stations.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BD8DAA9-63A3-4A77-A247-39E29D763837}|GTAV radio stations.csproj|c:\\users\\fscho\\documents\\github\\my-c-sharp-repo\\winforms\\gtav radio stations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4BD8DAA9-63A3-4A77-A247-39E29D763837}|GTAV radio stations.csproj|C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTAV radio stations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4BD8DAA9-63A3-4A77-A247-39E29D763837}|GTAV radio stations.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTAV radio stations\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAApAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwCoAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-08T20:03:35.493Z",
               "EditorCaption": ""
@@ -42,8 +42,7 @@
               "ToolTip": "C:\\Users\\fscho\\Documents\\GitHub\\My-C-sharp-repo\\winForms\\GTAV radio stations\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T20:00:51.58Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-08T20:00:51.58Z"
             }
           ]
         }
